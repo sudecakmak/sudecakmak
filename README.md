@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=sudecakmak&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sudecakmak&theme=midnight-purple)
 
 ![Sude's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudecakmak&show_icons=true&theme=midnight-purple)
 
